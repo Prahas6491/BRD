@@ -1,0 +1,11 @@
+os
+fitz
+docx2txt
+streamlit
+openai
+python-dotenv
+PyMuPDF
+langchain-core
+langchain-openai
+langchain-community
+langchain
