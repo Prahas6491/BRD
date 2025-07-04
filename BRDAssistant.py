@@ -1,7 +1,7 @@
 import streamlit as st
 #from dotenv import load_dotenv
-import os
 import fitz  # PyMuPDF
+import os
 import docx2txt
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings import OpenAIEmbeddings
